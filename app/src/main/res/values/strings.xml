@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DINT_Retrofit_Task</string>
+    <string name="search">SEARCH</string>
+    <array name="spinnerItems">
+        <item>pc</item>
+        <item>psn</item>
+        <item>xbl</item>
+    </array>
+</resources>
